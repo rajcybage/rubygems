@@ -5,7 +5,7 @@
 # See LICENSE.txt for permissions.
 #++
 
-require 'rubygems'
+require 'rubygems' 
 
 if ARGV.include? '-h' or ARGV.include? '--help' then
   $stderr.puts "rubygems_update [options]"
